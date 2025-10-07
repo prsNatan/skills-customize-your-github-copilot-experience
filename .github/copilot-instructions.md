@@ -1,4 +1,3 @@
-Sempre que for fazer commits, utilize o padrão Conventional Commits para as mensagens de commit.
 # Descrição do Projeto
 
 Este projeto é um site educacional para compartilhar tarefas de casa e exercícios de programação com estudantes. Os estudantes podem navegar, visualizar e baixar tarefas diretamente do portal.
@@ -21,3 +20,7 @@ Ao gerar conteúdo para este projeto:
 
 - **Focado em aprendizado**: Todo conteúdo deve ser projetado com objetivos de aprendizado claros e níveis de dificuldade apropriados
 - **Amigável para estudantes**: Use linguagem clara e encorajadora que motiva os estudantes
+
+## Commits
+
+Ao gerar commits para este projeto, utilize o padrão [Conventional Commits](https://www.conventionalcommits.org/), garantindo mensagens claras e padronizadas.
